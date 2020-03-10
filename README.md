@@ -1,4 +1,4 @@
-docker-minecraft-ftb-skyfactory3
+Docker-SkyFactory-4
 ===============
 
 In order to persist the Minecraft data, which you must do, use the `-v` argument to map a directory of the host to ``/data``:
